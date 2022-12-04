@@ -1,0 +1,45 @@
+.App {
+    background-color: rgb(5, 18, 14);
+    height: auto;
+
+}
+
+.logo {
+    color: rgb(79, 78, 52);
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 10px;
+    border-bottom: 2px solid rgb(35, 13, 26);
+}
+
+.App .row {
+    width: 500px;
+    display: flex;
+    margin-top: 30px;
+    color: rgb(142, 140, 91);
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+
+}
+.App .row1{
+    width: 500px;
+    display: flex;
+    margin-top: 30px;
+    color: rgb(198, 195, 108);
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    
+}
+.row1{
+    background-color: rgb(19, 134, 50);
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    text-overflow: clip;
+    font-family: cursive;
+    font-weight: 500;
+}
